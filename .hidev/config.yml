@@ -1,0 +1,12 @@
+package:
+    name:           hibilling
+    label:          HiBilling
+    title:          AHnames HiBilling
+    type:           project
+    keywords:       hibilling, billing, invoicing
+    description:    |
+        [AHnames](https://ahnames.com/) HiBilling
+
+require:
+    ahnames/hidev-config:       "*"
+    hiqdev/hidev-config-php:    "*"

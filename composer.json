@@ -1,0 +1,33 @@
+{
+    "name": "ahnames/hibilling",
+    "type": "project",
+    "description": "AHnames HiBilling",
+    "keywords": [
+        "hibilling",
+        "billing",
+        "invoicing"
+    ],
+    "homepage": "https://github.com/ahnames/hibilling",
+    "license": "No license",
+    "support": {
+        "email": "support@ahnames.com",
+        "source": "https://github.com/ahnames/hibilling",
+        "issues": "https://github.com/ahnames/hibilling/issues",
+        "wiki": "https://github.com/ahnames/hibilling/wiki"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        }
+    ],
+    "require": {
+        "hiqdev/hibilling-core": "*@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "ahnames\\hibilling\\": "src"
+        }
+    }
+}
