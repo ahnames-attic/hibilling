@@ -22,7 +22,7 @@ php composer.phar create-project "ahnames/hibilling:*" directory2install
 
 ## License
 
-This project is released under the terms of the No license [license](https://github.com/hiqdev/hidev/blob/master/LICENSE).
+This project is released under the terms of the No license [license](https://github.com/ahnames/hibilling/blob/master/LICENSE).
 Read more [here](http://choosealicense.com/licenses/no-license).
 
 Copyright © 2015, AHnames (https://ahnames.com/)
